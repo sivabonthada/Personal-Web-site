@@ -9,9 +9,13 @@ This is a personal web page
 - HTML
 - CSS 
 
-## Template Preview
+## Template Preview Images
 
 <img src="Preview/index.PNG" style="float: left; margin-right: 10px;" />
+<img src="Preview/education.PNG" style="float: left; margin-right: 10px;" />
+<img src="Preview/projects.PNG" style="float: left; margin-right: 10px;" />
+<img src="Preview/exp.PNG" style="float: left; margin-right: 10px;" />
+<img src="Preview/contact.PNG" style="float: left; margin-right: 10px;" />
 
 
 ## Color Reference
