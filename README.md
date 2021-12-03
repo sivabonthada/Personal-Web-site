@@ -11,7 +11,7 @@ This is a personal web page
 
 ## Template Preview
 
-<img src="preview/index.PNG" style="float: left; margin-right: 10px;" />
+<img src="Preview/index.PNG" style="float: left; margin-right: 10px;" />
 
 
 ## Color Reference
