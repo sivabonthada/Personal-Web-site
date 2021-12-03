@@ -1,0 +1,54 @@
+.container {
+  display:flex;
+  justify-content:center;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 2%;	
+}
+
+.container > div {
+  margin:2px;
+  background-color: #cc9966;
+}
+.first{
+ 	height: auto;
+ 	width: auto;
+}
+img{
+	height: fit-content;
+	width: fit-content;
+}
+.second {
+  width:100%;
+  padding: 2%;
+}
+h4
+{
+	size: 10px;
+	font-family: sans-serif;
+}
+h2
+{
+	font-family: sans-serif;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#cc9966;
+   color: white;
+   text-align: center;
+}
+.social{
+	margin: 0 auto;
+	margin-top:9%;
+}
+.sco{
+	width: 30px;
+	height: 30px;
+	margin-left: 20px;
+}
+p{
+	font-family: cursive;
+}

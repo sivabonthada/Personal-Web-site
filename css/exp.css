@@ -1,0 +1,28 @@
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#A19171;
+   color: white;
+   text-align: center;
+}
+.project
+{
+	background-color: ;
+	width: 70%;
+	margin: 0 auto;
+	padding-right: 2%;
+	padding-right: 2%;
+	padding-top: 3px;
+	font-family: sans-serif;
+	background-color: #FBE7E0;
+	color: black;
+}
+p{
+	color: black;
+}
+li
+{
+	color: black;
+}
